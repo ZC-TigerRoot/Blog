@@ -23,4 +23,28 @@ GitHub 提供了两种认证方式，一是 edu 邮箱认证，二是证件认�
 PS：一次认证是2年时间，可重复认证。
 
 ## 有什么？
+> 注：这里只会说一些自己认为有价值的，完整版可以去`https://education.github.com/pack`
+
+
 [自己看](https://education.github.com/pack)
+### NameCheap
+![image.png](https://cdn.jsdelivr.net/gh/ZC-TigerRoot/image/usr/uploads/2021/01/1699007807.png)
+一年`.me`的域名，虽然不能备案，但是当个个人网站的域名还是比较香的，而且还有免费的`HTTPS`证书，不要白不要。
+
+### GitHub Pro
+![image.png](https://cdn.jsdelivr.net/gh/ZC-TigerRoot/image/usr/uploads/2021/01/2995126222.png)
+其实除了装X以外我们也用不到什么功能，但还是贴下GitHub官网给的说明![image.png](https://cdn.jsdelivr.net/gh/ZC-TigerRoot/image/usr/uploads/2021/01/779920236.png)
+
+### DigitalOcean
+![image.png](https://cdn.jsdelivr.net/gh/ZC-TigerRoot/image/usr/uploads/2021/01/2876978359.png)
+
+这个可以说是里面很香的一个了，一年100$的代金券，很多白嫖学生包的都是冲着这个去的。 **But！，这个券是有限制的，就是要求必须有`DigitalOcean`的账号，也就是说必须要有`PayPal`或者是`信用卡`并且至少充值五美元**
+> 当然我的也没用，有需要的可以评论区私信我~
+
+### JetBrains全家桶
+![image.png](https://cdn.jsdelivr.net/gh/ZC-TigerRoot/image/usr/uploads/2021/01/1508856137.png)
+这个也是最香的一类，而且更令人心动的是，`JetBrains全家桶`是没有任何无理要求的，只需要把在`GitHub`上填的信息重新填一遍，就可以领取一年的`License`（过期后可以通过学生包重新续期），放图！
+![image.png](https://cdn.jsdelivr.net/gh/ZC-TigerRoot/image/usr/uploads/2021/01/715326924.png)
+
+>注：虽然上面写了`For educational use only`，但是并没有限制使用设备的个数，亲测同时双设备。
+
