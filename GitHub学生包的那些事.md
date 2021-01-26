@@ -14,3 +14,13 @@
 ![image.png](https://cdn.jsdelivr.net/gh/ZC-TigerRoot/image/usr/uploads/2021/01/2028119683.png)
 
 ## 如何获得
+GitHub 提供了两种认证方式，一是 edu 邮箱认证，二是证件认证。如果申请到 edu 邮箱，可以先使用第一种方式试试；如果申请不到 edu 邮箱，那没办法只能使用第二种方式。
+
+申请：打开 GitHub 学生包页面，点击"Get your pack"按钮，然后下面会有提示让你进行登陆 GitHub 账户和学生认证，只要上传你的学生证或者录取通知书就可以了。
+
+> 介于大陆的一些原因，Github对于`.edu.cn`的域名很不友好，所以推荐大家使用录取通知书（如果是中学生，可以使用学生手册，基本上是有盖章的都可以）
+
+PS：一次认证是2年时间，可重复认证。
+
+## 有什么？
+[自己看](https://education.github.com/pack)
