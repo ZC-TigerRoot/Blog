@@ -1,6 +1,6 @@
 # 开头
 ~~再也不咕咕咕了~~
-因为元调的原因，咕了非常久，在这里道个歉~~虽然元调只考了430~~
+因为元调的原因，咕了非常久，在这里道个歉~~虽然元调只考了443~~
 # 正题
 ## 什么是GitHub学生包
 > Learn to ship software like a pro. There's no substitute for hands-on experience. But for most students, real world tools can be cost-prohibitive. That's why we created the GitHub Student Developer Pack with some of our partners and friends: to give students free access to the best developer tools in one place so they can learn by doing.
